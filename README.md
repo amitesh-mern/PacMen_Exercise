@@ -1,5 +1,7 @@
 #PacMen
+
 #Create PacMen and watch them bounce around
+
 Description: This page creates PacMen with the click of a button and each of them will move about the browser window at their own pace. The PacMen changes direction when it bounces against the walls. Click the "Add PacMan" button to add new PacMen on the page and then click the "Start Game" button to see them bounce around.
 
 Roadmap of future improvements: I plan to add logic to make this into a game of Pac-Man, with an enclosed maze and dots to eat and ghosts to avoid.
